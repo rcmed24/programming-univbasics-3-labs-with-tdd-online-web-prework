@@ -36,6 +36,7 @@ expect(quotient).to eq(first_number/second_number)
 end
 
 first_number = (1)
+second_number = (2)
 
 
 
